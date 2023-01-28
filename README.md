@@ -1,6 +1,6 @@
 # Chronic_kidney_disease_predictor
-Praposal [version-1]
-January 27, 2023
+Praposal [version-1]\n
+January 27, 2023\n
 Problem Statement
 Chronic kidney disease includes conditions that damage our kidneys and decrease their ability to keep us healthy by filtering wastes from our blood. If kidney disease worsens, wastes can build to high levels in your blood and make you feel sick. We may develop complications like:
 
