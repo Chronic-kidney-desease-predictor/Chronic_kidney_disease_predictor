@@ -1,7 +1,10 @@
 # Chronic_kidney_disease_predictor
-Praposal [version-1]\n
-January 27, 2023\n
+Praposal [version-1]
+
+January 27, 2023
+
 Problem Statement
+
 Chronic kidney disease includes conditions that damage our kidneys and decrease their ability to keep us healthy by filtering wastes from our blood. If kidney disease worsens, wastes can build to high levels in your blood and make you feel sick. We may develop complications like:
 
 High Blood Pressure
@@ -11,6 +14,7 @@ Poor Nutritional Health
 Nerve Damage
 
 .What is Chronic kidney disease
+
 Chronic kidney disease, also called chronic kidney failure, involves a gradual loss of kidney function. Your kidneys filter wastes and excess fluids from your blood, which are then removed in your urine. Advanced chronic kidney disease can cause dangerous levels of fluid, electrolytes and wastes to build up in your body.
 Structural or  functional abnormalities of the kidneys for more than three months, as manifested by either:
 Kidney damage, with or without decreased Glomerular Filtration Rate, as defined by:
@@ -18,18 +22,23 @@ Pathologic Abnormalities
 Markers of kidney damage including abnormalities in the composition of the blood or urine or abnormalities in imaging tests.
 
 Aim 
+
 Chronic Disease Prediction In Kidney: To predict chronic disease in kidney in more accurate and faster way to reduce attributes.
 
 Specifications
+
 We want to create a software with a hope to help solve the problem of chronic diseases taking over affecting people and become significantly more lethal as time goes on. The symptoms of these diseases get overlooked most of the time as the symptoms aren’t that serious and people think of them as ordinary illnesses but in that stage are indeed curable and that too with ease.
 We hope to design an AI/ML model that uses the combination of techniques such as k-Nearest Neighbour(kNN), Logistic Regression and Decision Tree to give the best advice to the user considering the current symptoms they are experiencing and the history of their illnesses throughout their life up until now. The model will be designed in Python with the main libraries being Pandas, NumPy and matplotlib. The whole AI/ML model and its services will be made accessible to the user using a web front that will be designed using HTML, CSS and Javascript.
 
 TimeStamp:
+
 January: Project Pitching and Proposal -Version (1) 
 February: Research(R&D) on the topic and Documentation
 March: Implementation of Code and Building User Interface
 April : Testing , Deployment and Evaluation
+
 Modules:
+
 Pre-Processing & cleaning
 Login page
 User input and result page
