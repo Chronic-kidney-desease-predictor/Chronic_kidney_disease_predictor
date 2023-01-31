@@ -27,7 +27,7 @@ Chronic Disease Prediction In Kidney: To predict chronic disease in kidney in mo
 
 Specifications
 
-We want to create a software with a hope to help solve the problem of chronic diseases taking over affecting people and become significantly more lethal as time goes on. The symptoms of these diseases get overlooked most of the time as the symptoms aren’t that serious and people think of them as ordinary illnesses but in that stage are indeed curable and that too with ease.
+We want to create a software with a hope to help solve the problem of chronic diseases taking over by affecting people and become significantly more lethal as time goes on. The symptoms of these diseases get overlooked most of the time as the symptoms aren’t that serious and people think of them as ordinary illnesses but in that stage are indeed curable and that too with ease.
 We hope to design an AI/ML model that uses the combination of techniques such as k-Nearest Neighbour(kNN), Logistic Regression and Decision Tree to give the best advice to the user considering the current symptoms they are experiencing and the history of their illnesses throughout their life up until now. The model will be designed in Python with the main libraries being Pandas, NumPy and matplotlib. The whole AI/ML model and its services will be made accessible to the user using a web front that will be designed using HTML, CSS and Javascript.
 
 TimeStamp:
@@ -51,4 +51,4 @@ Model building
 
 Expected Outcome
 
-The outcome we  better yet the users expect is the advice that the AI/ML model will provide the user to be able to cure the disease of the user or to at least help prolong the life of the user and prevent/ cure the chronic illnesses such as Kidney Failure, Dangerous levels of fluid in the system, Fluid Retention, Anaemia and Weak Bones. The users will have to input the symptoms they are currently experiencing and their medical history up until now in the model to get the best possible advice to accomplish the goal of curing the device which in turn will be the keystone to accomplish the final goal of the prolonging of human life.
+The outcome we or better yet the users expect is the advice that the AI/ML model will provide the user to be able to cure the disease of the user or to at least help prolong the life of the user and prevent/ cure the chronic illnesses such as Kidney Failure, Dangerous levels of fluid in the system, Fluid Retention, Anaemia and Weak Bones. The users will have to input the symptoms they are currently experiencing and their medical history up until now in the model to get the best possible advice to accomplish the goal of curing the device which in turn will be the keystone to accomplish the final goal of the prolonging of human life.
