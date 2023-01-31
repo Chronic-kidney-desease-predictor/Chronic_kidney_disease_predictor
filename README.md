@@ -33,8 +33,11 @@ We hope to design an AI/ML model that uses the combination of techniques such as
 TimeStamp:
 
 January: Project Pitching and Proposal -Version (1) 
+
 February: Research(R&D) on the topic and Documentation
+
 March: Implementation of Code and Building User Interface
+
 April : Testing , Deployment and Evaluation
 
 Modules:
