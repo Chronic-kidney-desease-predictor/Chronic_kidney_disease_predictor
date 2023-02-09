@@ -1,3 +1,6 @@
+_______________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________
+
 # Chronic_kidney_disease_predictor
 Praposal [version-1]
 
@@ -52,3 +55,17 @@ Model building
 Expected Outcome
 
 The outcome we or better yet the users expect is the advice that the AI/ML model will provide the user to be able to cure the disease of the user or to at least help prolong the life of the user and prevent/ cure the chronic illnesses such as Kidney Failure, Dangerous levels of fluid in the system, Fluid Retention, Anaemia and Weak Bones. The users will have to input the symptoms they are currently experiencing and their medical history up until now in the model to get the best possible advice to accomplish the goal of curing the device which in turn will be the keystone to accomplish the final goal of the prolonging of human life.
+________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________
+
+         <-----------------------------------------------------------Abstract---------------------------------------------------------------------->
+         The project “Chronic Kidney Disease Prediction”.The main objective of the study is to analyze the status of Kidney in terms of health.Its a process of identifying the damage and harmful condition of the kidney and to advice the calm way to get rid of it and to establish a healthy relationship with our body.The Details regarding the illness of the kidney were collected through discussion with team members.
+
+The various tools used for study are hospital medical history,patient symptoms,and the study on the causes and there frequency.Charts,table,graph are used for better understanding.Through deep analysis the people could understand the tenet,indication and remedy to the sickness and position of the kidney.
+
+The project is following high estimation survey also followed by a deep research in the respective field
+and tell how its affecting the Kidney in given period of time.On the other hand its revealing healthy way to keep it at good position for a persistence life,The Study recommends to reduce the unfit eating and to provide defense to Kidney and to increase the beneficial habits of consuming to discard this infection of the Kidney.
+___________________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
+
+
