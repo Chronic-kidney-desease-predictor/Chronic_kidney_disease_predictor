@@ -16,7 +16,7 @@ Weak Bones
 Poor Nutritional Health
 Nerve Damage
 
-.What is Chronic kidney disease
+What is Chronic kidney disease
 
 Chronic kidney disease, also called chronic kidney failure, involves a gradual loss of kidney function. Your kidneys filter wastes and excess fluids from your blood, which are then removed in your urine. Advanced chronic kidney disease can cause dangerous levels of fluid, electrolytes and wastes to build up in your body.
 Structural or  functional abnormalities of the kidneys for more than three months, as manifested by either:
